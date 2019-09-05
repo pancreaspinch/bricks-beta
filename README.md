@@ -3,5 +3,13 @@
 ## Student Name : Brian Ho  
 ## Student ID : 917275793
 
-The ball spawns at the start of the game on top of the paddle. Hit the biglegs to win. Green bricks double the score
-Not sure if i will get the jar out before clone. Clone the repo, and plug into netbeans. Rainbowmain is the main class. hit play.
+Brick Breaker Clone  
+
+1. Run Instructions  
+Download the .jar file and execute.  
+If it does not work, clone the repository and open it in Netbeans IDE. Select the Rainbowmain class and click the run button.  
+
+2. Game Instructions  
+Hit the ball with the paddle to break the bricks. Some bricks require more that one hit to break. Hitting a green brick will double the score. Hit the octopus with the ball to win.
+
+
